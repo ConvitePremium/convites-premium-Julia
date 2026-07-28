@@ -79,8 +79,8 @@ window.CONFIG = {
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
     presentes: { mostrarTexto:false, posicao: {"left":33.553047623801916,"top":81.93729445520376,"width":33.4951889476837,"height":4.619102111586347} },
-    dresscode: { mostrarTexto:true, posicao: {"left":30.485939372004793,"top":95.2859570329013,"width":38.607010033945684,"height":4.043731420910177} },
-    manual: { mostrarTexto:true, posicao: {"left":33.961971470646965,"top":91.6035648586758,"width":30.632597219448883,"height":4.388957676351608} },
+    dresscode: { mostrarTexto:false, posicao: {"left":30.485939372004793,"top":95.2859570329013,"width":38.607010033945684,"height":4.043731420910177} },
+    manual: { mostrarTexto:false, posicao: {"left":33.961971470646965,"top":91.6035648586758,"width":30.632597219448883,"height":4.388957676351608} },
   },
 
   // ----- POSIÇÃO DOS BOTÕES NA TELA PRINCIPAL ----------------------------
