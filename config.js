@@ -37,7 +37,7 @@ window.CONFIG = {
   // ----- LOCALIZAÇÃO (BOTÃO MAPA) ----------------------------------------
   // Link completo do Google Maps. Abra o local no Maps, clique em "Compartilar"
   // -> "Copiar link" e cole aqui (mantenha as aspas).
-  mapa: "https://www.google.com/maps/@-23.451182,-46.5805723,3a,75y,60.02h,65.83t/data=!3m7!1e1!3m5!1svurXXU26dTFJo_HwDhBH-w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D24.169645649598294%26panoid%3DvurXXU26dTFJo_HwDhBH-w%26yaw%3D60.02452636468114!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDcyMC4wIKXMDSoASAFQAw%3D%3D",
+  mapa: "https://www.google.com/maps/place/P%C3%A9rola+Recep%C3%A7%C3%B5es/@-1.4581035,-48.4894238,21z/data=!4m16!1m9!3m8!1s0x92a48e887b00a27d:0x7919196d5f853527!2sAv.+Conselheiro+Furtado,+1008+-+Batista+Campos,+Bel%C3%A9m+-+PA,+66025-160!3b1!8m2!3d-1.4582251!4d-48.489184!10e5!16s%2Fg%2F11c5n0nwyw!3m5!1s0x92a48e887c984aff:0x927292c250d23c59!8m2!3d-1.4581865!4d-48.489231!16s%2Fg%2F11cm436x_c?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D",
 
   // ----- QUAIS TELAS APARECEM --------------------------------------------
   // video:     true  -> toca o vídeo (assets/video.mp4) depois da abertura.
